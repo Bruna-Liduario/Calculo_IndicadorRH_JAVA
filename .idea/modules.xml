@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IndicadoresRH.iml" filepath="$PROJECT_DIR$/IndicadoresRH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mensagens/mensagens.iml" filepath="$PROJECT_DIR$/mensagens/mensagens.iml" />
+    </modules>
+  </component>
+</project>
